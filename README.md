@@ -1,11 +1,11 @@
 # java-ee
 java-ee TestApplication
 
-JavaEE 用のテスト用サンプルアプリケーションです。
-データソース(DB)を使用します。データソースはサーバのデフォルトを使用
+JavaEE 用のテスト用サンプルアプリケーションです。</br>
+データソース(DB)を使用します。データソースはサーバのデフォルトを使用</br>
 
-ApplicationCodeTester-gf.war
-  glassfish/javadb で調整したテストWAR
-ApplicationCodeTester.war
-  JbossEAP7 で調整したWAR
+ApplicationCodeTester-gf.war</br>
+  glassfish/javadb で調整したテストWAR</br>
+ApplicationCodeTester.war</br>
+  JbossEAP7 で調整したWAR</br>
  
